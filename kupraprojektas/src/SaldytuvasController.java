@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 class SaldytuvasController {
-    private Saldytuvas saldytuvas;
+    private Saldytuvas saldytuvasModel;
     private SaldytuvasView saldytuvasView;
 
     ArrayList<VartojamasProduktas> gautiProduktuSarasa(){

@@ -5,6 +5,5 @@ public enum Pranesimas {
     RECEPTO_GAMINIMAS("Šiandien yra recepto iš valgiaraščio gaminimo diena"),
     ADMINISTRATORIUS_ISTRYNE("Administratorius redagavo/ištrynė tavo įrašą");
 
-    Pranesimas(String pranesimas) {
-    }
+    Pranesimas(String pranesimas) {}
 }

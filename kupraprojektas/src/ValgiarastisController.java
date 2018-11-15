@@ -4,7 +4,6 @@ class ValgiarastisController {
 
     private Valgiarastis valgiarastisModel;
     private ValgiarastisView valgiarastisView;
-    private Naudotojas naudotojas;
 
     void pagamintiRecepta(ValgiarascioReceptas valgiarascioReceptas){}
 

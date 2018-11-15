@@ -11,7 +11,7 @@ class NaudotojasController {
 
     void keistiPamirstaSlaptazodi(){}
 
-    void prisijungti(){}
+    void prisijungti(String vartotojoVardas, String slaptazodis){}
 
     void atsijungti(){}
 
@@ -19,15 +19,17 @@ class NaudotojasController {
 
     void keistiSlaptazodi(){}
 
-    void pakviestiDraugauti(Naudotojas naujasDraugas){}
+    void pakviestiDraugauti(Naudotojas kvieciamasDraugas){}
 
-    void atsakytiIDraugystesKvietima(){}
+    void atsakytiIDraugystesKvietima(Boolean atsakymas){}
 
-    void pasalintiDrauga(){}
+    void pasalintiDrauga(Naudotojas salinamasDraugas){}
 
     Pranesimas gautiPranesima(){
         return null;
     }
+
+    Naudotojas gautiNaudotojoProfili(){ return null; }
 
     ArrayList<Naudotojas> gautiNaudotojuSarasa(){
         return null;

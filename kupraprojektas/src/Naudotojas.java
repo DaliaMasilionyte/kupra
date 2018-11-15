@@ -1,4 +1,7 @@
+import java.util.ArrayList;
+
 class Naudotojas {
+    private int id;
     private NaudotojoRole role;
     private String paskyrosVardas;
     private String slaptazodis;
@@ -9,6 +12,6 @@ class Naudotojas {
     private byte nuotrauka;
     private Valgiarastis asmeninisValgiarastis;
     private Saldytuvas asmeninisSaldytuvas;
-
+    private ArrayList<Integer> drauguID;
 
 }

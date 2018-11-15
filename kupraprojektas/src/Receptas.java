@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 class Receptas {
-    private String id;
+    private int id;
     private String pavadinimas;
     private Naudotojas autorius;
     private String instrukcija;
