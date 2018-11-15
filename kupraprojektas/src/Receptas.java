@@ -1,12 +1,13 @@
 import java.util.ArrayList;
 
-public class Receptas {
+class Receptas {
+    private String id;
     private String pavadinimas;
     private Naudotojas autorius;
     private String instrukcija;
     private ArrayList<Integer> ivertinimas;
     private float reitingas = 0;
-    private ArrayList<Produktas> produktai;
+    private ArrayList<VartojamasProduktas> produktai;
     private ReceptoPrieiga prieiga;
     private int porcijuSkaicius;
     private ArrayList<Byte> nuotraukos;

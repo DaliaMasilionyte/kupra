@@ -1,3 +1,3 @@
-public class MatavimoVienetas {
+class MatavimoVienetas {
     private String pavadinimas;
 }

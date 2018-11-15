@@ -1,4 +1,5 @@
-public class Naudotojas {
+class Naudotojas {
+    private NaudotojoRole role;
     private String paskyrosVardas;
     private String slaptazodis;
     private String vardas;
@@ -8,5 +9,6 @@ public class Naudotojas {
     private byte nuotrauka;
     private Valgiarastis asmeninisValgiarastis;
     private Saldytuvas asmeninisSaldytuvas;
+
 
 }

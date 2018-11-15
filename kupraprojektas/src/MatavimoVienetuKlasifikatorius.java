@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class MatavimoVienetuKlasifikatorius {
+class MatavimoVienetuKlasifikatorius {
 
     private ArrayList<MatavimoVienetas> klasifikatorius;
 }

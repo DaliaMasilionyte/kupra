@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Valgiarastis {
+class Valgiarastis {
 
     private ArrayList<ValgiarascioReceptas> receptai;
 }

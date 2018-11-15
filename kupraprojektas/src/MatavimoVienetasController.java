@@ -1,18 +1,25 @@
-public class MatavimoVienetasController {
+class MatavimoVienetasController {
     private MatavimoVienetuKlasifikatorius matavimoVienetuKlasifikatoriusModel;
     private MatavimoVienetasView matavimoVienetasView;
 
 
-    public void pridetiMatavimoVieneta(MatavimoVienetas matavimoVienetas){
+    void pridetiMatavimoVieneta(MatavimoVienetas matavimoVienetas){
 
     }
 
-    public void keistiMatavimoVieneta(MatavimoVienetas matavimoVienetas){
+    void keistiMatavimoVieneta(MatavimoVienetas matavimoVienetas){
 
     }
 
-    public void istrintiMatavimoVieneta(MatavimoVienetas matavimoVienetas){
+    void istrintiMatavimoVieneta(MatavimoVienetas matavimoVienetas){
 
+    }
+    MatavimoVienetuKlasifikatorius gautiMatavimoVienetuSarasa(){
+        return null;
+    }
+
+    MatavimoVienetas gautiMatavimoVieneta(){
+        return null;
     }
 
 }

@@ -1,6 +1,8 @@
-public class MatavimoVienetasView {
+import java.util.ArrayList;
 
-    public void atspausdintiMatavimoVienetuKlasifikatoriu() {
+class MatavimoVienetasView {
+
+    void atspausdintiMatavimoVienetuSarasa(MatavimoVienetuKlasifikatorius klasifikatorius) {
 
     }
 }

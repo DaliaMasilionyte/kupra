@@ -1,0 +1,3 @@
+public enum ReceptuFiltravimas {
+    PRIVATUS_RECEPTAI, VIESI_RECEPTAI, VISI_RECEPTAI, MANO_RECEPTAI
+}
